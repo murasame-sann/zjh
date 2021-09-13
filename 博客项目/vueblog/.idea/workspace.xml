@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28f4a3fa-113f-4c7a-a49c-8cc51de4bf27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BookSystem-master/demo1/.idea/demo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC-Study/SpringMVC-Study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC-Study/out/artifacts/springmvc_01_servlet_war_exploded/WEB-INF/classes/springmvc-01-servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC-Study/out/artifacts/springmvc_01_servlet_war_exploded2/WEB-INF/classes/springmvc-01-servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC-Study/out/production/springmvc-01-servlet/springmvc-01-servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC-Study/springmvc-01-servlet/springmvc-01-servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC-Study/springmvc-02-hellomvc/springmvc-02-hellomvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC-Study/springmvc-03-annotation/springmvc-03-annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC-Study/springmvc-04-json/springmvc-04-json.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC-Study/springmvc-05-ajax/springmvc-05-ajax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC-Study/springmvc-06-intercepter/springmvc-06-intercepter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC-Study/springmvc-07-file/springmvc-07-file.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vue_projects/vue/vue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../booking_meeting_room/.idea/booking_meeting_room.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangoProject/.idea/djangoProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_demo/.idea/django_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_demo2 - 副本/.idea/django_demo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django_demo2/.idea/django_demo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redis-01-jedis/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redis-01-jedis/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redis-01-jedis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redis-01-jedis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redis-01-jedis/redis-01-jedis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shenwq0/shenwq.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleui_demo-master/.idea/simpleui_demo-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmbuild/ssmbuild.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vueblog-vue/vueblog-vue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webpack-study/.idea/webpack-study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/controller/AuthorizeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/controller/AuthorizeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/controller/PublishController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/controller/PublishController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/dto/AccessTokenDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/dto/AccessTokenDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/dto/GithubUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/dto/GithubUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/dto/PaginationDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/dto/PaginationDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/dto/QuestionDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/dto/QuestionDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/mapper/QuestionMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/mapper/QuestionMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/pojo/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/pojo/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/provider/GithubProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/provider/GithubProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/service/QuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../community/src/main/java/life/hua/community/service/QuestionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community/src/main/resources/static/css/community.css" beforeDir="false" afterPath="$PROJECT_DIR$/../community/src/main/resources/static/css/community.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../community/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../community/src/main/resources/templates/publish.html" beforeDir="false" afterPath="$PROJECT_DIR$/../community/src/main/resources/templates/publish.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1wcT9svZEFf51kgkjjNIp0f4M86" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ssmbuild" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hua" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workplace\vueblog\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.VueblogApplication">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hua.CodeGenerator" />
+      <module name="vueblog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="console.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$APPLICATION_CONFIG_DIR$/consoles/db/14a00727-ea39-49bd-97f2-2a97ae39bf44/console.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="VueblogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vueblog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hua.VueblogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CodeGenerator" />
+        <item itemvalue="Database Script.console.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28f4a3fa-113f-4c7a-a49c-8cc51de4bf27" name="Default Changelist" comment="" />
+      <created>1628756728578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628756728578</updated>
+      <workItem from="1628756737910" duration="477000" />
+      <workItem from="1628757287412" duration="569000" />
+      <workItem from="1628759441375" duration="1778000" />
+      <workItem from="1628761252543" duration="1729000" />
+      <workItem from="1628763021937" duration="1773000" />
+      <workItem from="1628764830134" duration="235000" />
+      <workItem from="1628774723360" duration="630000" />
+      <workItem from="1628775726586" duration="327000" />
+      <workItem from="1628776685882" duration="13000" />
+      <workItem from="1628861403486" duration="690000" />
+      <workItem from="1628915146965" duration="99000" />
+      <workItem from="1628988181860" duration="599000" />
+      <workItem from="1629016966836" duration="313000" />
+      <workItem from="1629017307801" duration="1779000" />
+      <workItem from="1629019134580" duration="1144000" />
+      <workItem from="1629021822907" duration="1272000" />
+      <workItem from="1629080656390" duration="820000" />
+      <workItem from="1629085510312" duration="11000" />
+      <workItem from="1629104453238" duration="1720000" />
+      <workItem from="1629106255897" duration="185000" />
+      <workItem from="1629106600243" duration="289000" />
+      <workItem from="1629169633760" duration="145000" />
+      <workItem from="1629172798638" duration="1568000" />
+      <workItem from="1629177735113" duration="1772000" />
+      <workItem from="1629179547648" duration="482000" />
+      <workItem from="1629181905364" duration="1624000" />
+      <workItem from="1629183556310" duration="1789000" />
+      <workItem from="1629185381106" duration="1794000" />
+      <workItem from="1629187222781" duration="406000" />
+      <workItem from="1629187712895" duration="90000" />
+      <workItem from="1629188589283" duration="14000" />
+      <workItem from="1629203845653" duration="436000" />
+      <workItem from="1629205406921" duration="560000" />
+      <workItem from="1629212605415" duration="818000" />
+      <workItem from="1629264090101" duration="301000" />
+      <workItem from="1629266964347" duration="1776000" />
+      <workItem from="1629268880371" duration="812000" />
+      <workItem from="1629269998137" duration="960000" />
+      <workItem from="1629271053298" duration="221000" />
+      <workItem from="1629271314228" duration="116000" />
+      <workItem from="1629271685186" duration="470000" />
+      <workItem from="1629339273141" duration="691000" />
+      <workItem from="1629444967073" duration="687000" />
+      <workItem from="1629445718640" duration="1129000" />
+      <workItem from="1629447022090" duration="1556000" />
+      <workItem from="1629453359313" duration="1212000" />
+      <workItem from="1629508995361" duration="12000" />
+      <workItem from="1629525038209" duration="1224000" />
+      <workItem from="1629531310045" duration="945000" />
+      <workItem from="1629534708731" duration="176000" />
+      <workItem from="1629622719301" duration="1079000" />
+      <workItem from="1629623827218" duration="374000" />
+      <workItem from="1629624266632" duration="222000" />
+      <workItem from="1629624672487" duration="499000" />
+      <workItem from="1629625405582" duration="92000" />
+      <workItem from="1629626500771" duration="643000" />
+      <workItem from="1629627244155" duration="138000" />
+      <workItem from="1629627569975" duration="666000" />
+      <workItem from="1629682753749" duration="12000" />
+      <workItem from="1629710829969" duration="1456000" />
+      <workItem from="1629715645474" duration="444000" />
+      <workItem from="1629777364786" duration="1399000" />
+      <workItem from="1629779020996" duration="299000" />
+      <workItem from="1629794944888" duration="91000" />
+      <workItem from="1631372346524" duration="583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="304" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628759547414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="304" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1628759547414" />
+    <state x="1254" y="298" key="#com.intellij.ide.util.MemberChooser" timestamp="1629182730154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1254" y="298" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1629182730154" />
+    <state x="1160" y="201" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1629080841069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1160" y="201" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1629080841069" />
+    <state x="965" y="439" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1629445240179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="965" y="439" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1629445240179" />
+    <state x="939" y="396" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1628763713383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="939" y="396" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1628763713383" />
+    <state x="589" y="210" key="#console.sql" timestamp="1628762069228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="589" y="210" key="#console.sql/0.0.1920.1040@0.0.1920.1040" timestamp="1628762069228" />
+    <state x="505" y="417" key="FileChooserDialogImpl" timestamp="1629339670994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="417" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1629339670994" />
+    <state width="915" height="508" key="GridCell.Tab.0.bottom" timestamp="1629778489622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="508" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1629778489622" />
+    <state width="915" height="508" key="GridCell.Tab.0.center" timestamp="1629778489621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="508" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1629778489621" />
+    <state width="915" height="508" key="GridCell.Tab.0.left" timestamp="1629778489621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="508" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1629778489621" />
+    <state width="915" height="508" key="GridCell.Tab.0.right" timestamp="1629778489622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="508" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1629778489622" />
+    <state width="915" height="508" key="GridCell.Tab.1.bottom" timestamp="1629778489622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="508" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1629778489622" />
+    <state width="915" height="508" key="GridCell.Tab.1.center" timestamp="1629778489622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="508" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1629778489622" />
+    <state width="915" height="508" key="GridCell.Tab.1.left" timestamp="1629778489622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="508" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1629778489622" />
+    <state width="915" height="508" key="GridCell.Tab.1.right" timestamp="1629778489622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="915" height="508" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1629778489622" />
+    <state x="196" y="447" key="NewModule_or_Project.wizard" timestamp="1629339676036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="196" y="447" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1629339676036" />
+    <state x="499" y="329" key="SettingsEditor" timestamp="1629339496363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="499" y="329" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1629339496363" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1629178850143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1629178850143" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hua/controller/AccountController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hua/utils/JwtUtils.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hua/utils/ShiroUtil.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/hua/controller/BlogController.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
